@@ -4,9 +4,10 @@
 
 <div align="center">
   
-  ### 💻 Transformando café em código, um componente por vez!
+  ### 💻 Transformando uma xícara de café em códigos!
   
-  <p>Desenvolvedor apaixonado por criar experiências incríveis na web. Começando pelo front-end e expandindo horizontes para o universo full-stack!</p>
+  <p>Desenvolvedor em início de carreira! Atualmente focado em Front-End, mas não se preocupem, estou indo para o Backend também (aquele sofrimento básico)</p>
+  <p> Em breve haverá novos projetos aqui!</p>
   
 </div>
 
@@ -17,7 +18,7 @@
 - 🎯 Foco principal: **Front-end Development**
 - 🌱 Evoluindo para: **Full-stack Developer**
 - 💡 Sempre aprendendo e explorando novas tecnologias
-- ⚡ Fun fact: Acredito que código bem escrito é uma forma de arte
+- ⚡ Fatos sobre mim: Gosto de fazer páginas cheia de detalhes, então se algum dia você ver alguma página minha sem detalhes, não sou mais eu!
 
 ---
 
@@ -66,30 +67,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioHenrique00&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Caio Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHenrique00&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioHenrique00&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioHenrique00&custom_title=Gráfico%20de%20Contribuições&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+<div align="center style="border-radius:16px; overflow:hidden;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioHenrique00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
 
-### 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioHenrique00&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🌐 Conecte-se comigo
+### 🌐 Se quiser falar comigo, venha se conectar!
 
 <div align="center">
   
