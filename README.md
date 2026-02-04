@@ -7,7 +7,7 @@
   ### 💻 Transformando uma xícara de café em códigos!
   
   <p>Desenvolvedor em início de carreira! Atualmente focado em Front-End, mas não se preocupem, estou indo para o Backend também (aquele sofrimento básico)</p>
-  <p> Em breve haverá novos projetos aqui!</p>
+  <p> Em breve haverá novos projetos!</p>
   
 </div>
 
